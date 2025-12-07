@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Musoke Alpha - Biography</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 40px 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            font-size: 1.2em;
+            margin-top: 10px;
+        }
+        section {
+            padding: 40px 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        p {
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Musoke Alpha</h1>
+    <p>Ugandan Student | Aspiring Criminal Lawyer</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>Hello! My name is Musoke Alpha. I am a Ugandan student born on 22nd July 2008, currently attending my O'Level education at St Julian High School, Gayaza. I am a straight-A learner with a passion for justice and law, and I aspire to become a criminal lawyer. My parents are Kigozi Pennyna and Tamale Ivan Ben, and I practice Islam.</p>
+    
+    <h2>Education</h2>
+    <p>I study at St Julian High School, focusing on subjects that strengthen my analytical, reasoning, and critical thinking skills. I aim to excel in academics as I prepare for a future career in law.</p>
+    
+    <h2>Interests</h2>
+    <p>I am fascinated by the law, human rights, and criminal justice. I also enjoy analyzing stories, characters, and strategies in TV series and real-life scenarios, which helps me think critically and understand human behavior better.</p>
+    
+    <h2>Achievements</h2>
+    <ul>
+        <li>Straight-A learner in my O'Level studies</li>
+        <li>Strong interest in law and justice</li>
+        <li>Committed to academic excellence and personal growth</li>
+    </ul>
+    
+    <h2>Contact Me</h2>
+    <p>You can reach me via email at <a href="mailto:musokealpha93@gmail.com">musokealpha93@gmail.com</a>.</p>
+</section>
+
+<footer>
+    &copy; 2025 Musoke Alpha. All rights reserved.
+</footer>
+
+</body>
+</html>
